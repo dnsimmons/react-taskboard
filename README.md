@@ -2,6 +2,8 @@
 
 A basic React application that demonstrates managing state for a list of tasks using functional and class based components.
 
+![](screenshot.jpg)
+
 ### Dependencies
 
 - react ^16.8.6
