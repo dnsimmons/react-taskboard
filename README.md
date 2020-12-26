@@ -4,16 +4,6 @@ A basic React application that demonstrates managing state for a list of tasks u
 
 ![](screenshot.jpg) 
 
-### Dependencies
-
-- react ^16.8.6
-- react-dom ^16.8.6
-- react-scripts 2.1.8
-- bootstrap ^4.3.1
-- fortawesome/fontawesome-svg-core ^1.2.17
-- fortawesome/free-solid-svg-icons ^5.8.1
-- fortawesome/react-fontawesome ^0.1.4
-
 ### Install
 
 #### `npm install`
